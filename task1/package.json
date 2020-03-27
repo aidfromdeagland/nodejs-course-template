@@ -1,0 +1,10 @@
+{
+  "name": "caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "Building CLI for caesar encryption",
+  "main": "main.js",
+  "author": "stanislau laniuk",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
